@@ -10,4 +10,4 @@
 ##### ⚡ [Pooh JMS](https://github.com/DaniilsLoputevs/job4j_pooh) - My Rabbit MQ implementation based on Java Core, Concurrent, ThreadPool, IO.
 ##### ⚡ [Urs shortcut](https://github.com/DaniilsLoputevs/job4j_url_shortcut) - Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
 ##### ⚡ [Dream Job](https://github.com/DaniilsLoputevs/job4j_dreamjob) - Java Servlets, Postgres, HTML, ajax, Mockito.
-##### ⚡ [Job grabber](https://github.com/DaniilsLoputevs/job4j_parser_sql.ru) - Парсер вакансий с сайта-агрегатора по ключевому слову. Java Сore, quartz-scheduler, jdbc, Postgres.
+##### ⚡ [Job grabber](https://github.com/DaniilsLoputevs/job4j_parser_sql.ru) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
