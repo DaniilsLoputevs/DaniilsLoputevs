@@ -11,10 +11,10 @@ at least 4 people said it was Fire and the idea that they would use it for trips
 * project at the initial stage of development
 ##### ⚡3 - is a Java class file for a pretty printout of a collection of objects. (you can compute a file in any project that can be used for logging/debugging/formatting collections of objects)
 code:
-https://github.com/DaniilsLoputevs/notes_java/blob/main/src/main/java/tools/PrintTable.java
-tests/examples of use:
-https://github.com/DaniilsLoputevs/notes_java/blob/main/src/test/java/tools/PrintTableTest.java
-very convenient to use it.
+<br>https://github.com/DaniilsLoputevs/notes_java/blob/main/src/main/java/tools/PrintTable.java
+<br>tests/examples of use:
+<br>https://github.com/DaniilsLoputevs/notes_java/blob/main/src/test/java/tools/PrintTableTest.java
+<br>very convenient to use it.
 ##### ⚡ 4 - https://github.com/DaniilsLoputevs/expression-calculator
 calculator of simple mathematical expressions or just a calculator - but not stupid as in the course 2 + 2, more real
 <br>input: 2+(3*4-5+(6+4)+(10-7*2))-5
@@ -27,5 +27,5 @@ front-end - https://github.com/Tiunchik/zkmaster_front (wrote by friend Maxim)
 admin panel for human control of the state of several ZooKeeper server at once
 * ZooKeeper - a server program that stores the config in the form of a tree, similar to a database.
 GUI through the front, displaying 2 or more complete trees that are on several servers, comparing trees, copy / cut and paste a sub-tree from one tree (server) to another and a tree (server) and another. (It was a long time ago, all the chips I don’t remember, all advanced features are missing from the box at all (naked API for ZooKeepr))
-- at the end of the project, the admin panel was used by a friend's colleagues at his place of work - feedback is a very useful thing, especially comparing several trees (configs) at once. You can compare the configuration of several circuits on one screen without dancing and a tambourine.
-##### ⚡ [Card parser game](https://github.com/DaniilsLoputevs/Card_Parser) - Kotlin, LibGBX(liftoff version, libKTX), gradle.
+- At the end of the project, the admin panel was used by a friend's colleagues at his place of work - feedback is a very useful thing, especially comparing several trees (configs) at once. You can compare the configuration of several circuits on one screen without dancing and a tambourine.
+##### ⚡6 - [Card parser game](https://github.com/DaniilsLoputevs/Card_Parser) - Kotlin, LibGBX(liftoff version, libKTX), gradle.
